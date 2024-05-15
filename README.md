@@ -1,8 +1,9 @@
-- 👋 Hola me llamo DiegoDLL
-- 👀 Programador is Arashi Studios
-- 🌱 Configurador de plugins series
-- 💞️ Arashi Studios Founder.
-- 📫 Discord : https://discord.gg/DtZqwve3a6
+- 👋 Soy Diego Lemus Lopez
+- 👀 Programador de Arashi Studios
+- 🌱 Configurador de plugins & Mods
+- 💞️ Team Arashi Fundador & Director
+- 📫 Discord :[Team Arashi](https://discord.gg/xA7SSaerpV)
+- 🔺Creador de modpack & en todas las versiones
 
 <!---
 Diego programador 
